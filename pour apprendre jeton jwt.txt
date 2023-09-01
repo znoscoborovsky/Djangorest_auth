@@ -1,0 +1,1 @@
+https://code.tutsplus.com/how-to-authenticate-with-jwt-in-django--cms-30460t
